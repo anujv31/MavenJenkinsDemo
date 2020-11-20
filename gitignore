@@ -1,0 +1,3 @@
+*.txt
+hello.txt
+!abc/dash.txt
